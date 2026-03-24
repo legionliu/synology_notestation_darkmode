@@ -1,0 +1,23 @@
+.x-panel-bwrap{
+    background-color:rgb(27, 27, 27) !important;
+    color:rgb(198, 198, 198) !important;
+}
+.syno-ux-textfield{
+    background-color:rgb(27, 27, 27) !important;
+}
+
+.syno-ns-win .syno-ns-note-group-header {
+    background-color:rgb(27, 27, 27) !important;
+}
+
+.syno-ux-triggerfield, .syno-ux-combobox, .syno-ux-colorfield, .syno-ux-schedulefield, .syno-ux-datefield, .syno-ux-timefield, .syno-ux-superboxselect {
+    background-color:rgb(27, 27, 27) !important;
+}
+
+.syno-ns-win .syno-ns-note-snippet-group-container.syno-ns-note-snippet-container-select .syno-ns-note-snippet-container {
+    background-color: #0a252b;
+}
+
+.mce-panel {
+    background-color:rgb(27, 27, 27) !important;
+}
