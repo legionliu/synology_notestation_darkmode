@@ -26,7 +26,7 @@ body {
 ```
 ### Check Results
 Restart Note Station client to check the results.
-## White Title bar?
+## White Title Bar?
 The title bar is still in white even if the Windows color is set to dark. Luckily we have the F11 -- Oh yeah you will get a focus mode as well!
-## About Note Station versions
+## About Note Station Versions
 The tweaks work in Note Station 2.2.5-804. As of May 2026, Synology has not released new version of Note Station client software, but [beta version](https://www.synology.com/beta/2025_Note_Station_Client_3_0_Beta?ref=blackvoid.club#package_NoteStationClientV2_release_note) has been released (seems preventing web page inspecting). Please refer the [link](https://www.blackvoid.club/synology-note-station-client-3-0/) for more information.
