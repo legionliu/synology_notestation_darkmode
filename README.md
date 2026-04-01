@@ -26,6 +26,17 @@ body {
 ```
 ### Check Results
 Restart Note Station client to check the results.
+## For MacOS Users
+If you are using Note Station on MacOS, the modification process differs from Windows because the application files are packed inside an archive. Please follow these steps:
+### Locate the Archive
+Find the app package at: `/Applications/Synology Note Station Client.app/Contents/Resources/app.asar`
+### Unpack This Archive File
+To modify or add the customization files, you need to extract the contents of `app.asar` archive first.
+### Modify and Add customization files
+Take the same file modification steps above.
+### Re-pack & Place Back The Archive File
+Re-pack the files back into a new `.asar` file then place it back in the original location.
+> **Tip**: If you are comfortable with automation, feel free to contribute a shell script (`.sh`) that can automate the unpacking/repacking process via GitHub Pull Requests or Issues!
 ## White Title Bar?
 The title bar is still in white even if the Windows color is set to dark. Luckily we have the F11 -- Oh yeah you will get a focus mode as well!
 ## About Note Station Versions
