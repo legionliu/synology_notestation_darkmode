@@ -13,7 +13,7 @@ As you may know, the Note Station desktop client (at least for Windows) is actua
 ```
 #### css File
 Create and edit the css file `%userdata%\appdata\local\NoteStation\css/custom_style.css` as you wanted. You can start from my sample file in the repo.
-### html text Area
+#### html text Area
 Edit the file `%userdata%\AppData\Local\NoteStation\package.nw\webman\modules\TinyMCE\js\tinymce\skins\synostyle\content.min.css` from white-black to black-white (afer you backup):
 ```css
 body {
